@@ -7,7 +7,7 @@ version: 2
 registries:
   Artifactory:
     type: docker-registry
-    url: 	http://172.16.1.49:8082/artifactory/docker-local/
+    url: http://172.16.1.49:8082/artifactory/docker-local/
     username: admin
     password: Odelia2909!
 updates:
